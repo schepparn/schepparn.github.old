@@ -46,3 +46,8 @@ https://www.theguardian.com/world/2010/mar/22/un-cities-mega-regions
 R. Florida et al. - The city as innovation machine (2017-06-08)
 https://www.tandfonline.com/doi/pdf/10.1080/00343404.2016.1255324?needAccess=true
 - Innovations not only grow well in cities, they need cities to grow.
+
+TED - Why citites rule the world (2016-05-31)
+https://ideas.ted.com/why-cities-rule-the-world
+- Statistics
+--- "They are the world’s engines, generating four-fifths of the global GDP."

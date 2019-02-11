@@ -10,8 +10,21 @@ It's christmas morning, me and my wife is waiting patiently by the crowded chris
 
 
 
-## 
+## Schedule -> On demand
+Ménascé - Smart Cities and new forms of employment (2017)
+https://journals.openedition.org/factsreports/4290
 
+Forbes - On-Demand Workspaces Apply Airbnb Model To Office Space (2017-07-31)
+https://www.forbes.com/sites/hpincemea/2017/07/31/on-demand-workspaces-apply-airbnb-model-to-office-space/#61efd8017dff
+
+Citylab - In Columbus, Expectant Moms Will Get On-Demand Rides to the Doctor (2018-12-27)
+https://www.citylab.com/transportation/2018/12/smart-city-columbus-prenatal-ride-hailing/579082
+
+Smart Citites Dive - Uber takes to the seas with Mumbai boat service (2019-02-05)
+https://www.smartcitiesdive.com/news/uber-takes-to-the-seas-with-mumbai-boat-service/547653
+
+S3 Project - We are soon operating in Gothenburg again! (2019-02-10)
+https://s3project.se/en/start-2
 
 
 ## Aaaaah, soo many choices 

@@ -4,6 +4,18 @@ layout: post
 title: Changing Technologies Changes Cities
 tag: 'rise, testbädd varberg, smart cities'
 ---
+## Ahhh, soo many choices
+It's christmas morning, me and my wife is waiting patiently by the crowded christmas tree for our three year old. Ruben stumbles in and does a double take, obviously he has been a very good boy! Eagerly and with a huge smile he starts tearing at the pile of gifts. 
+- Too out there - keep story around adjacent
+
+
+
+## 
+
+
+
+## Aaaaah, soo many choices 
+However, 
 
 
 ## Future city development
@@ -12,11 +24,10 @@ McKinsey - Thriving amid turbulence (2018-10)
 https://www.mckinsey.com/industries/public-sector/our-insights/thriving-amid-turbulence-imagining-the-cities-of-the-future 
 ### Trends
 - Sharing
---- 
+--- Gotland - Turism and public transport
 - Combining
 --- Snarkmarket - Starbucks API
 --- MaaS - UbiGo
---- 
 - Remoting
 - Crowd sourcing
 

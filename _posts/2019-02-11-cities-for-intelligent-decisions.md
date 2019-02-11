@@ -30,3 +30,12 @@ https://www.boston.gov/departments/new-urban-mechanics/street-bump
 ---- "Ultimately, the city was able to multiply its initial funding of $50 million to more than $500 million by building a large ecosystem of smart city partners."
 
 "by co-designing a solution called “Family by Family” with the people they sought to support. Such co-creation approaches allow policy designers to build better prototypes and test them in real-life scenarios, increasing effectiveness."
+
+Gartner - Gartner Says Citizen Engagement Is Critical to the Success of Smart Cities (2018-03-07)
+https://www.gartner.com/en/newsroom/press-releases/2018-03-07-gartner-says-citizen-engagement-is-critical-to-the-success-of-smart-cities
+--- "The way forward today is a community-driven, bottom-up approach where citizens are an integral part of designing and developing smart cities, and not a top-down policy with city leaders focusing on technology platforms alone," said Bettina Tratz-Ryan research vice president at Gartner.
+--- For smart citizens the focus is not just about the use of technologies such as artificial intelligence (AI) and smart machines, but the enhancement of services and experience. Therefore, citizen-government dialogue is a key component that will ensure that the right issues are tackled.
+
+Bee Smart City - The Use of Crowdsourcing to accelerate Smart City Development (2017-09-11)
+https://hub.beesmart.city/solutions/the-use-of-crowdsourcing-to-accelerate-smart-city-development-two-best-practice-solutions
+The City of London has embraced collaborative approaches to accelerate its smart city development. A good example is the "Smart City Challenge", backed by the city government and technology company IBM.

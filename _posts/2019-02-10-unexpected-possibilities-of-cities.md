@@ -26,6 +26,10 @@ https://www.smartcitiesdive.com/news/uber-takes-to-the-seas-with-mumbai-boat-ser
 S3 Project - We are soon operating in Gothenburg again! (2019-02-10)
 https://s3project.se/en/start-2
 
+## Representative -> Crowd
+PoliceOne - Crowdsourcing crime: Why the public may be your best investigative asset (2017-03-23)
+https://www.policeone.com/policing-in-the-video-age/articles/320405006-Crowdsourcing-crime-Why-the-public-may-be-your-best-investigative-asset
+
 
 ## Aaaaah, soo many choices 
 However, 

@@ -39,3 +39,6 @@ https://www.gartner.com/en/newsroom/press-releases/2018-03-07-gartner-says-citiz
 Bee Smart City - The Use of Crowdsourcing to accelerate Smart City Development (2017-09-11)
 https://hub.beesmart.city/solutions/the-use-of-crowdsourcing-to-accelerate-smart-city-development-two-best-practice-solutions
 The City of London has embraced collaborative approaches to accelerate its smart city development. A good example is the "Smart City Challenge", backed by the city government and technology company IBM.
+
+Bloomberg Cities - How crowdsourcing drives citizen engagement (2018-05-10)
+https://medium.com/@BloombergCities/how-crowdsourcing-drives-citizen-engagement-eb5a7eeaf2b1

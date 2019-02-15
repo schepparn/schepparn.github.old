@@ -49,6 +49,20 @@ We’re going to be making this case over and over in the next couple of years, 
 
 In 2019, governments will need to recommit to funding for the Global Fund, one of the biggest health efforts in the world. And Gavi, the Vaccine Alliance, will need to raise money in 2020.
 
+[gatesnotes - Annual Letter 2019](https://www.gatesnotes.com/2019-Annual-Letter?WT.mc_id=02_13_2019_15_AL2019_GF-TW_&WT.tsrc=GFTW&sf98738595=1)
+for the world’s most marginalized women, a mobile phone doesn’t just make their old life more convenient; it can help them build an entirely new life. That’s because connectivity is a solution to marginalization.
+
+### The limits of the private sector (market segments who are fast and affluent are good first movers, those who are slow and poor are not)
+[gatesnotes - Annual Letter 2018](https://www.gatesnotes.com/2018-Annual-Letter)
+We think poor people should benefit from the same kind of innovation in health and agriculture that has improved life in the richest parts of the world. Much of that innovation comes out of the private sector. But companies have to make a return on their investments, which means they have little incentive to work on problems that mainly affect the world’s poorest people. We’re trying to change that—to encourage companies to focus a bit of their expertise on the problems of the poor without asking them to lose money along the way.
+
+### Change from within (nudging change in local environments is better than imposing change)
+[gatesnotes - Annual Letter 2018](https://www.gatesnotes.com/2018-Annual-Letter)
+It’s not so much a question about what we do, but how we do it. Do we really understand people’s needs? Are we working with people on the ground?
+
+We’re acutely aware that some development programs in the past were led by people who assumed they knew better than the people they were trying to help. We’ve learned over the years that listening and understanding people’s needs from their perspective is not only more respectful—it’s also more effective.
+
+We have about 1,500 employees in offices on four continents who look at the data, survey the universe of possible approaches, study what’s worked and what hasn’t, and develop strategies that we believe will maximize our impact. But one of the most important parts of their job is to listen to partners, adjust the strategies based on what they hear, and give implementers the leeway to use their expertise and their local knowledge. That’s not to say we always get it right. We don’t. But we try to approach our work with humility about what we don’t know and the determination to learn from our mistakes.
 
 ### Baseline data (raising issues and clarifying optimal spots for funding)
 [gatesnotes - Annual Letter 2019](https://www.gatesnotes.com/2019-Annual-Letter?WT.mc_id=02_13_2019_15_AL2019_GF-TW_&WT.tsrc=GFTW&sf98738595=1)
@@ -56,7 +70,50 @@ Bill and I could easily spend our whole annual letter talking about the role dat
 
 We are part of a network of organizations working to accelerate a gender data revolution—from empowering data collectors with new tools and training to breaking down existing datasets by gender to mine them for insights.
 
+[gatesnotes - Annual Letter 2018](https://www.gatesnotes.com/2018-Annual-Letter)
+We support early learning and postsecondary institutions, but we started with high schools, and that’s still the area in which we invest the most. We’ve learned a lot about what works in education, but the challenge has been to replicate the successes widely.
+
+In the early 2000s, our foundation was one of the organizations that drew attention to a big flaw in the way high-school graduation rates were calculated. They were often reported at 90 percent when they were actually less than 70 percent—that is, roughly a third of students were dropping out. We funded research that identified the true graduation rate and helped build a coalition of states that agreed to use it.
+
+### Keywords
+
+[grand challenges](https://gcgh.grandchallenges.org/sites/default/files/additional-materials/NTD_Data_GC_RFP.pdf)
+**Criteria for funding**
+- Solution applicability
+- Impact
+- Efficiency
+- Local ownership
+- Sustainability
+
+**Criteria for NOT funding**
+- Marginal improvements
+- Vendor led efforts without local participation or buy-in
+- Solutions similar to existing efforts or tools already in use
+
+## How to fund
+
+### Openly to learn
+[gatesnotes - Annual Letter 2018](https://www.gatesnotes.com/2018-Annual-Letter)
+there is nothing secret about our objectives as a foundation. We are committed to being open about what we fund and what the results have been. (It’s not always immediately clear what’s been successful and what hasn’t, but we work hard to assess our impact, course correct, and share lessons.) We do this work, and use whatever influence we have, to help as many people as possible and to advance equity around the world.
+
+So we use our resources in a very specific way: to test out promising innovations, collect and analyze the data, and let businesses and governments scale up and sustain what works. We’re like an incubator in that way. We aim to improve the quality of the ideas that go into public policies and to steer funding toward those ideas that have the most impact.
+
+### Incubator style
+[grand challenges](https://gcgh.grandchallenges.org/sites/default/files/additional-materials/NTD_Data_GC_RFP.pdf)
+The Incubator funding will be structured in two rounds. Round 1 funding will support proof-of-concept testing of the proposed solution over 3 to 6 months. After this initial stage, we then expect to invite a subset of the most successful Round 1 grantees to apply for Round 2 funding to test theirsolutions more broadly over 12-18 months. As results from Round 2 would ultimately inform country scale-up, your proposal should identify the necessary conditions for its success.
+
 ## Documentation tactics
+
+### Applications
+[grand challenges - application letter](https://gcgh.grandchallenges.org/sites/default/files/additional-materials/NTD_Data_GC_LOI.pdf)
+total page limit of 5 pages.
+
+- Section 1: Targeted Use Case(s)
+- Section 2: Goals and Rationale 
+- Section 3: Approach to Design and Deployment of a Fit-for-Purpose Solution
+- Section 4: Organization and Investigator Capabilities & Collaboration 
+- Section 5: Budget
+
 
 ### Annual letter 
 - [gatesnotes - Annual Letter 2019](https://www.gatesnotes.com/2019-Annual-Letter?WT.mc_id=02_13_2019_15_AL2019_GF-TW_&WT.tsrc=GFTW&sf98738595=1)

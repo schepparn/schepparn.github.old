@@ -103,4 +103,15 @@ We end here with a moral of our story. Whether you are a scientist or an issue-a
 
 ---
 
+## Final checklist
+
+- [ ] Have I proofread my article?
+- [ ] Have I asked a colleague to read for sense?
+- [ ] Will everything I’ve said make sense to an international audience?
+- [ ] Have I convinced my reader of my main argument? And can I summarize that argument in one line?
+- [ ] Is everything I’ve included interesting and relevant?
+- [ ] Have I stayed at around 700-800 words?
+- [ ] Have I stayed clear of jargon and policy speak?
+- [ ] Have I linked to references for critical facts and statistics?
+- [ ] Have I checked against [Apolitical’s style guidelines](https://apolitical.co/opinion-writing-becoming-an-apolitical-contributor)?
 

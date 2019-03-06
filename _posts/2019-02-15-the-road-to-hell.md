@@ -3,6 +3,10 @@ published: false
 layout: post
 title: The Road to Hell
 ---
+**Funding practices to avoid good intentions.**
+
+In 2016 the world spent [1.8 trillion dollars] on research and development Bla bla <sup id="a1">[1](#f1)</sup>.
+
 ## What to fund
 
 ### Importance of head count (need many and heavy with education) 
@@ -117,3 +121,9 @@ total page limit of 5 pages.
 
 ### Annual letter 
 - [gatesnotes - Annual Letter 2019](https://www.gatesnotes.com/2019-Annual-Letter?WT.mc_id=02_13_2019_15_AL2019_GF-TW_&WT.tsrc=GFTW&sf98738595=1)
+
+## References
+<b id="f1">1</b> Footnote content here. [↩](#a1)
+
+[^1] https://fas.org/sgp/crs/misc/R44283.pdf (Global Research and Development
+Expenditures: Fact Sheet)

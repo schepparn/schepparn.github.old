@@ -2,7 +2,7 @@
 published: false
 layout: post
 ---
-# Apolitical Powerful Policy Writing Template
+# Apolitical's Powerful Policy Writing Template
 
 ## Headline
 
@@ -114,4 +114,3 @@ We end here with a moral of our story. Whether you are a scientist or an issue-a
 - [ ] Have I stayed clear of jargon and policy speak?
 - [ ] Have I linked to references for critical facts and statistics?
 - [ ] Have I checked against [Apolitical’s style guidelines](https://apolitical.co/opinion-writing-becoming-an-apolitical-contributor)?
-

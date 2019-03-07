@@ -12,13 +12,13 @@ https://www.amazon.com/Where-Good-Ideas-Come-Innovation/dp/1594485380
 -- Several hunches coming together
 -- Borrow and combine
 --- Coffee house and Parisian salons and the internet
--- Open spaces for ideas to combine 
+-- Open spaces for ideas to combine
 - Historic increase in connections
 -- Chance favors the connected mind
 - Lasting platforms (Shoulders of giants)
 -- Reinvention and reuse
 --- Gutenberg
-- Room for errors 
+- Room for errors
 -- Creative confidence (Tom Kelley)
 
 McKinsey - Thriving amid turbulence: Imagining the cities of the future (2018-10)
@@ -28,7 +28,7 @@ https://www.mckinsey.com/industries/public-sector/our-insights/thriving-amid-tur
 
 CityLab - Why cities matter (2011-09-15)
 https://www.citylab.com/design/2011/09/why-cities-matter/123
-- Statistics 
+- Statistics
 -- 200 years ago -> 3% lived in cities
 -- 20th century -> 14% lived in cities
 -- Now -> >50% live in cities
@@ -36,7 +36,7 @@ https://www.citylab.com/design/2011/09/why-cities-matter/123
 - Environmental efficiency (https://www.davidowen.net)
 -- Safer -> less crime
 -- Fewer walls -> better insulation
--- Density -> fewer cars 
+-- Density -> fewer cars
 
 The Guardian - UN
 https://www.theguardian.com/world/2010/mar/22/un-cities-mega-regions
@@ -51,3 +51,4 @@ TED - Why citites rule the world (2016-05-31)
 https://ideas.ted.com/why-cities-rule-the-world
 - Statistics
 --- "They are the world’s engines, generating four-fifths of the global GDP."
+--- "Cities are humanity’s most realistic hope for future democracy to thrive, from the grassroots to the global. This makes them a stark contrast to so many of today’s nations, increasingly paralyzed by polarization, corruption and scandal."

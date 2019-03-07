@@ -3,12 +3,19 @@ published: false
 ---
 ## Smarter decisions
 
-### Testbädd 
+### Testbädd
 "These shifts democratize the development of cities and upend the traditional roles of governments, businesses, and residents. With governments evolving into solution enablers, businesses becoming more participative, and a growing cadre of citizen co-creators, tomorrow’s smart cities will be more connected, networked, and collaborative."
 
 "Smart City 2.0—as some of the more advanced cities have begun to move beyond mere infrastructure, tapping the wisdom of their residents and visitors."
 
-- Collective intelligence 
+Deloitte - Forces of change: Smart cities (2018-03-22)
+https://www2.deloitte.com/insights/us/en/focus/smart-city/overview.html
+--- "the smart cities of tomorrow engage governments, citizens, visitors, and businesses in an intelligent, connected ecosystem."
+--- "Smart City 2.0—as some of the more advanced cities have begun to move beyond mere infrastructure, tapping the wisdom of their residents and visitors."
+- Resident talent
+--- ! Good cities - good people - good business (same conclusion as McKinsey)
+
+- Collective intelligence
 "Cities are responding by finding ways to prompt better decision-making, not only by government but by business and residents, tapping into the collective intelligence of the city."
 --- Foodborne Chicago https://www.chicago.gov/city/en/depts/cdph/provdrs/healthy_communities/news/2014/apr/one-year-after-launch--foodborne-chicago-continues-to-enhance-fo.html
 "In one year since it was first launched, Foodborne Chicago helped hundreds of Chicagoans report food poisoning to the Chicago Department of Public Health (CDPH), resulting in 150 restaurant and food service inspections conducted by the city last year - inspections that otherwise may not have happened. Foodborne Chicago is a web application that uses Twitter to identify persons who believe they may have food poisoning, then flags those public tweets with CDPH for possible follow up."
@@ -26,8 +33,10 @@ https://www.boston.gov/departments/new-urban-mechanics/street-bump
 
 "Public-private partnership (PPP) models will play an important role in smart city financing and funding."
 --- LinkNYC program
---- Smart Columbus Acceleration fund 
+--- Smart Columbus Acceleration fund
 ---- "Ultimately, the city was able to multiply its initial funding of $50 million to more than $500 million by building a large ecosystem of smart city partners."
+--- Citylab - In Columbus, Expectant Moms Will Get On-Demand Rides to the Doctor (2018-12-27)
+https://www.citylab.com/transportation/2018/12/smart-city-columbus-prenatal-ride-hailing/579082
 
 "by co-designing a solution called “Family by Family” with the people they sought to support. Such co-creation approaches allow policy designers to build better prototypes and test them in real-life scenarios, increasing effectiveness."
 

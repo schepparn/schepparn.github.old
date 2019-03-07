@@ -3,7 +3,7 @@ published: false
 ---
 # Lean kommunal verksamhet
 
-**Stora komplexa frågor löser man bäst genom små enkla beslut**. 
+**Kommunens stora komplexa frågor löser man bäst genom små enkla beslut**. 
 
 ## Introduktion
 

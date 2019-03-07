@@ -1,7 +1,18 @@
 ---
 published: false
 ---
-## Smarter decisions
+# Contiuous Course-correcting Citites
+
+
+
+## Background
+
+In billiards, dart and bowling you get one chance to affect the final outcome. After the initial force is applied nothing can change the course of the object. In a meticuously defined environment professionals, who have dedicated their lives to the practice of respective sport, continue to baffle their amateur counterparts with their amazing precision. 
+
+As the task and context becomes more complex, as for example when launching a rocket or testing a new business prospect, continuous course-correction becomes inevitable. For sure, great care is taken in the initial stages of both the rocket's and business' path. However, everyone involved expects to measure, learn and improve over the course of time. 
+
+- Degrees of freedom
+- Mandate
 
 ### Testbädd
 "These shifts democratize the development of cities and upend the traditional roles of governments, businesses, and residents. With governments evolving into solution enablers, businesses becoming more participative, and a growing cadre of citizen co-creators, tomorrow’s smart cities will be more connected, networked, and collaborative."

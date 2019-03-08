@@ -11,6 +11,10 @@ published: false
 
 ## Background
 
+Det var länge sedan ett nystartat företag kunde erhålla kapital baserat på detaljerade teoretiska affärsplaner. Såklart hjälper det att man har en fräck teknologi men verkligheten är så pass komplex att användare rutinmässigt väljer bort innovationer som saknar en viss aspekt. Idag ska man ha befunnit sig utanför *väggarna*, redan fångat kunders intresse och allra helst redan fått betalt för att få kontakt med investerare. 
+
+För att nå igenom bruset och möta dessa krav 
+
 In billiards, dart and bowling you get one chance to affect the final outcome. After the initial force is applied nothing can change the course of the object. In a meticuously defined environment professionals, who have dedicated their lives to the practice of respective sport, continue to baffle their amateur counterparts with their amazing precision. 
 
 As the task and context becomes more complex, as for example when launching a rocket or testing a new business prospect, continuous course-correction becomes inevitable. For sure, great care is taken in the initial stages of both the rocket's and business' path. However, everyone involved expects to measure, learn and improve over the course of time. 

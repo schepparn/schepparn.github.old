@@ -7,9 +7,19 @@ published: false
 
 ## Introduktion
 
+Kommunal verksamhet är inte som att starta ett nytt företag, det är mycket värre. 
 
+Som entrepenör begränsar man sin marknad till en viss kundtyp och man är relativt fri att välja var man testar värdet av ens tjänster. I en kommun, däremot, är marknaden definierad av alla tidigare, nuvarande och framtida skattebetalare i ett visst geografiskt område. Att man dessutom väljer ny strategisk inriktning med några års mellanrum skapar ytterliggare utmaningar. 
+
+I framtiden så kommer säkert kommunal verksamhet att lära entrepenören ett och annat om att effektivt möta en bred marknad och mata ledningen med uppskattade förslag för utveckling oberoende av rådande strategisk inriktning. Men där är vi ännu inte. Först måste kommunal verksamhet komma ikapp den enormt snabba utveckling som skett inom modernt entrepenörsskap. 
 
 ## Background
+
+More complex 
+
+Many constituents - vague value
+
+
 
 Det var länge sedan ett nystartat företag kunde erhålla kapital baserat på detaljerade teoretiska affärsplaner. Såklart hjälper det att man har en fräck teknologi men verkligheten är så pass komplex att användare rutinmässigt väljer bort innovationer som saknar en viss aspekt. Idag ska man ha befunnit sig utanför *väggarna*, redan fångat kunders intresse och allra helst redan fått betalt för att få kontakt med investerare. 
 

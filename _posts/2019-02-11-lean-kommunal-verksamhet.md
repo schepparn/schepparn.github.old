@@ -27,9 +27,8 @@ Importance of leadership
 ### Lösning
 
 - Experimentera (hur många försök att bygga olika saker)
--- Gå utanför väggarna
--- MVP
-
+  - Gå utanför väggarna
+  - MVP
 - Innovation accounting
 
 Det var länge sedan ett nystartat företag kunde erhålla kapital baserat på detaljerade teoretiska affärsplaner. Såklart hjälper det att man har en fräck teknologi men verkligheten är så pass komplex att användare rutinmässigt väljer bort innovationer som saknar en viss aspekt. Idag ska man ha befunnit sig utanför *väggarna*, redan fångat kunders intresse och allra helst redan fått betalt för att få kontakt med investerare. 

@@ -13,13 +13,24 @@ Som entrepenör begränsar man sin marknad till en viss kundtyp och man är rela
 
 I framtiden så kommer säkert kommunal verksamhet att lära entrepenören ett och annat om att effektivt möta en bred marknad och mata ledningen med uppskattade förslag för utveckling oberoende av rådande strategisk inriktning. Men där är vi ännu inte. Först måste kommunal verksamhet komma ikapp den enormt snabba utveckling som skett inom modernt entrepenörsskap. 
 
-## Background
+## Huvudstycke
 
-More complex 
+### Problem
+
+Utveckling är mer komplicerat idag. Inte bara en fräck teknologi (svart färg räcker inte längre som enda val). 
 
 Many constituents - vague value
 
+Importance of leadership
 
+
+### Lösning
+
+- Experimentera (hur många försök att bygga olika saker)
+-- Gå utanför väggarna
+-- MVP
+
+- Innovation accounting
 
 Det var länge sedan ett nystartat företag kunde erhålla kapital baserat på detaljerade teoretiska affärsplaner. Såklart hjälper det att man har en fräck teknologi men verkligheten är så pass komplex att användare rutinmässigt väljer bort innovationer som saknar en viss aspekt. Idag ska man ha befunnit sig utanför *väggarna*, redan fångat kunders intresse och allra helst redan fått betalt för att få kontakt med investerare. 
 
@@ -34,7 +45,7 @@ As the task and context becomes more complex, as for example when launching a ro
 -- Currently hiding initiatives within own walls to limit exposure to the politics
 
 
-### Testbädd
+#### Testbädd
 "These shifts democratize the development of cities and upend the traditional roles of governments, businesses, and residents. With governments evolving into solution enablers, businesses becoming more participative, and a growing cadre of citizen co-creators, tomorrow’s smart cities will be more connected, networked, and collaborative."
 
 "Smart City 2.0—as some of the more advanced cities have begun to move beyond mere infrastructure, tapping the wisdom of their residents and visitors."
@@ -82,3 +93,12 @@ The City of London has embraced collaborative approaches to accelerate its smart
 
 Bloomberg Cities - How crowdsourcing drives citizen engagement (2018-05-10)
 https://medium.com/@BloombergCities/how-crowdsourcing-drives-citizen-engagement-eb5a7eeaf2b1
+
+
+### Utmaningar 
+
+- Referensgruppens mandat
+- Finansiering
+- 
+
+## Sammanfattning

@@ -18,12 +18,16 @@ Kommuner har mycket att lära sig från den privata sektorn. Genom åren har ent
 
 ### Problem
 
+Vad är innebär framtidens mobilitet i vår kommun? Hur ser vi till att innevånare och näringsliv har möjlighet att välja miljömässiga transportalternativ? 
+
+Är det autonoma skyttlar som kommer på beställning? Ett nationellt IT-system för att koppla samman olika transportlösningar? En begränsad parkeringsnorm i gengäld för mobilitetstjänster? 
+
+
+
 En entrepenör testar värdet på sin tjänst 
-för en mycket snäv kundgrupp 
+för en mycket snäv kundgrupp. Man begränsar sin marknad till en viss kundtyp och är relativt fri att välja var man testar värdet av ens tjänster. I en kommun, däremot, är marknaden definierad av alla tidigare, nuvarande och framtida skattebetalare i ett visst geografiskt område. Att man dessutom väljer ny strategisk inriktning med fyra års mellanrum skapar ytterliggare utmaningar. 
 
-Som entrepenör begränsar man sin marknad till en viss kundtyp och man är relativt fri att välja var man testar värdet av ens tjänster. I en kommun, däremot, är marknaden definierad av alla tidigare, nuvarande och framtida skattebetalare i ett visst geografiskt område. Att man dessutom väljer ny strategisk inriktning med några års mellanrum skapar ytterliggare utmaningar. 
 
-I framtiden så kommer säkert kommunal verksamhet att lära entrepenören ett och annat om att effektivt möta en bred marknad och utveckla uppskattade förslag oberoende av rådande strategisk inriktning. Men där är vi inte ännu. Först måste kommunal verksamhet komma ikapp den enormt snabba utveckling som skett inom modernt entrepenörsskap. 
 
 
 Utveckling är mer komplicerat idag. Inte bara en fräck teknologi (svart färg räcker inte längre som enda val). 
@@ -110,3 +114,5 @@ https://medium.com/@BloombergCities/how-crowdsourcing-drives-citizen-engagement-
 - 
 
 ## Sammanfattning
+
+I framtiden så kommer säkert kommunal verksamhet att lära entrepenören ett och annat om att effektivt möta en bred marknad och utveckla uppskattade förslag oberoende av rådande strategisk inriktning. Men där är vi inte ännu. Först måste kommunal verksamhet komma ikapp den enormt snabba utveckling som skett inom modernt entrepenörsskap. 

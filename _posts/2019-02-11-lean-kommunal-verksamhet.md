@@ -30,7 +30,8 @@ Nej, självfallet inte! Istället ska vi utnyttja den moderna entrepenörens sna
 
 ### Älska problemet
 
-*Svaret på den yttersta frågan om livet, universum och allting är 42, nu gäller det bara att förstå frågan.* Douglas Adams paradox är en kul metafor för risken med att fastna vid en viss idé. Lösningar och ny teknologi är mycket spännande men om de 
+*Svaret på den yttersta frågan om livet, universum och allting är 42, nu gäller det bara att förstå frågan.* Douglas Adams paradox är en kul metafor för risken med att fastna vid en viss idé. Lösningar och ny teknologi är mycket spännande men om de inte har nå
+
 
 Detta är en risk för entrepenören som ofta spenderar mycket tid på att utveckla en viss lösning. 
 

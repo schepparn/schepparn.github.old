@@ -1,21 +1,30 @@
 ---
 published: false
 ---
-# Lean kommunal verksamhet
+# Kommunal verksamhet goes lean
 
 **Kommunens stora komplexa frågor löser man bäst genom små enkla beslut**. 
 
 ## Introduktion
 
-Kommunal verksamhet är inte som att starta ett nytt företag, det är mycket värre. 
+Kommunal verksamhet är som att starta ett nytt företag, fast mycket värre. Det enda man kan vara säker på är att det inte blir som man först tänkt sig.  
 
-Som entrepenör begränsar man sin marknad till en viss kundtyp och man är relativt fri att välja var man testar värdet av ens tjänster. I en kommun, däremot, är marknaden definierad av alla tidigare, nuvarande och framtida skattebetalare i ett visst geografiskt område. Att man dessutom väljer ny strategisk inriktning med några års mellanrum skapar ytterliggare utmaningar. 
+Trots osäkerheten måste både kommuner och företag våga famla sig fram. Det finns inga garantier. Lösningar som fungerat för i ett visst geografiskt område eller marknad kan falla platt i en annan.  
 
-I framtiden så kommer säkert kommunal verksamhet att lära entrepenören ett och annat om att effektivt möta en bred marknad och mata ledningen med uppskattade förslag för utveckling oberoende av rådande strategisk inriktning. Men där är vi ännu inte. Först måste kommunal verksamhet komma ikapp den enormt snabba utveckling som skett inom modernt entrepenörsskap. 
+Kommuner har mycket att lära sig från den privata sektorn. Genom åren har entrepenörerna utvecklat allt mer robusta metoder för att hantera ovissheten framgångsrikt. Till exempel fanns fortfarande över tre fjärdedelar av alla företag som startades 2012 kvar tre år senare enligt statliga [Tillväxtanalys](http://www.tillvaxtanalys.se/publikationer/statistik/statistikserien/2017-05-03-uppfoljning-av-2012-ars-nystartade-foretag---tre-ar-efter-start.html). 
+
 
 ## Huvudstycke
 
 ### Problem
+
+En entrepenör testar värdet på sin tjänst 
+för en mycket snäv kundgrupp 
+
+Som entrepenör begränsar man sin marknad till en viss kundtyp och man är relativt fri att välja var man testar värdet av ens tjänster. I en kommun, däremot, är marknaden definierad av alla tidigare, nuvarande och framtida skattebetalare i ett visst geografiskt område. Att man dessutom väljer ny strategisk inriktning med några års mellanrum skapar ytterliggare utmaningar. 
+
+I framtiden så kommer säkert kommunal verksamhet att lära entrepenören ett och annat om att effektivt möta en bred marknad och utveckla uppskattade förslag oberoende av rådande strategisk inriktning. Men där är vi inte ännu. Först måste kommunal verksamhet komma ikapp den enormt snabba utveckling som skett inom modernt entrepenörsskap. 
+
 
 Utveckling är mer komplicerat idag. Inte bara en fräck teknologi (svart färg räcker inte längre som enda val). 
 

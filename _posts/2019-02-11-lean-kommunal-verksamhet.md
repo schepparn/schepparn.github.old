@@ -11,14 +11,14 @@ Kommunal verksamhet är som att starta ett nytt företag, fast mycket värre. De
 
 Trots osäkerheten måste både kommuner och företag våga famla sig fram. Det finns inga garantier. Lösningar som fungerat för i ett visst geografiskt område eller marknad kan falla platt i en annan.  
 
-Kommuner har mycket att lära sig från den privata sektorn. Genom åren har entrepenörerna utvecklat allt mer robusta metoder för att hantera ovissheten framgångsrikt. Till exempel fanns fortfarande över tre fjärdedelar av alla företag som startades 2012 kvar tre år senare enligt statliga [Tillväxtanalys](http://www.tillvaxtanalys.se/publikationer/statistik/statistikserien/2017-05-03-uppfoljning-av-2012-ars-nystartade-foretag---tre-ar-efter-start.html). 
+Kommuner har mycket de kan lära sig från den privata sektorn. Genom åren har entrepenörerna utvecklat allt mer robusta metoder för att hantera ovissheten framgångsrikt. Till exempel fanns fortfarande över tre fjärdedelar av alla företag som startades 2012 kvar tre år senare enligt statliga [Tillväxtanalys](http://www.tillvaxtanalys.se/publikationer/statistik/statistikserien/2017-05-03-uppfoljning-av-2012-ars-nystartade-foretag---tre-ar-efter-start.html). 
 
 
 ## Huvudstycke
 
 ### Problem
 
-Vad är innebär framtidens mobilitet i vår kommun? Hur ser vi till att innevånare och näringsliv har möjlighet att välja miljömässiga transportalternativ? 
+Vad innebär framtidens mobilitet i vår kommun? Hur ser vi till att innevånare och näringsliv har möjlighet att välja miljömässiga transportalternativ? 
 
 Är det autonoma skyttlar som kommer på beställning? Ett nationellt IT-system för att koppla samman olika transportlösningar? En begränsad parkeringsnorm i gengäld för mobilitetstjänster? 
 
@@ -30,10 +30,20 @@ Nej, självfallet inte! Istället ska vi utnyttja den moderna entrepenörens sna
 
 ### Älska problemet
 
-*Svaret på den yttersta frågan om livet, universum och allting är 42, nu gäller det bara att förstå frågan.* Douglas Adams paradox är en kul metafor för risken med att fastna vid en viss idé. Lösningar och ny teknologi är mycket spännande men om de inte har nå
+*Svaret på den yttersta frågan om livet, universum och allting är 42, nu gäller det bara att förstå frågan.* Douglas Adams paradox är en kul metafor för risken med att fastna vid en viss idé. Lösningar och ny teknologi är mycket spännande men om de inte har direkt koppling till problemet saknas värdet. 
 
 
 Detta är en risk för entrepenören som ofta spenderar mycket tid på att utveckla en viss lösning. 
+
+Så hur blir man säker på att 
+
+**Gå utanför väggarna**
+Exempel med göteborgsförslaget
+
+**Behovet** 
+Innovation accounting - behovskriterier
+
+**MVP** 
 
 
 
@@ -116,4 +126,4 @@ https://medium.com/@BloombergCities/how-crowdsourcing-drives-citizen-engagement-
 
 ## Sammanfattning
 
-I framtiden så kommer säkert kommunal verksamhet att lära entrepenören ett och annat om att effektivt möta en bred marknad och utveckla uppskattade förslag oberoende av rådande strategisk inriktning. Men där är vi inte ännu. Först måste kommunal verksamhet komma ikapp den enormt snabba utveckling som skett inom modernt entrepenörsskap. 
+I framtiden så kommer säkert kommunal verksamhet att lära entrepenören ett och annat om att effektivt möta en bred marknad och utveckla uppskattade förslag oberoende av rådande strategisk inriktning. Men där är vi inte ännu. Först måste kommunal verksamhet komma ikapp den enormt snabba utveckling som skett inom modernt entrepenörsskap.

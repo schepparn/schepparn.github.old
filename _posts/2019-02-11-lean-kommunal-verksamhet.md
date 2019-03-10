@@ -22,22 +22,22 @@ Vad är innebär framtidens mobilitet i vår kommun? Hur ser vi till att innevå
 
 Är det autonoma skyttlar som kommer på beställning? Ett nationellt IT-system för att koppla samman olika transportlösningar? En begränsad parkeringsnorm i gengäld för mobilitetstjänster? 
 
+Behovsrymden är näst intill oändlig och lösningarna så osäkra och svåra att jämföra. Analysparalys. 
+
+Här behövs kanske en eldsjäl? Någon som, likt vattnet som tillslut urholkar stenen, outtröttligt driver igenom en omfattande förändring trots allt eventuellt motstånd. Eller är det en guerillaaktion som behövs? Där en viss avdelning genomför förändringen inom ramen för sitt uppdrag, utan att blanda in övriga delar av kommunen. 
+
+Nej, självfallet inte! Istället ska vi utnyttja den moderna entrepenörens snabba, enkla och ansvarskrävande metoder. 
+
+### Älska problemet
+
+*Svaret på den yttersta frågan om livet, universum och allting är 42, nu gäller det bara att förstå frågan.* Douglas Adams paradox är en kul metafor för risken med att fastna vid en viss idé. Lösningar och ny teknologi är mycket spännande men om de 
+
+Detta är en risk för entrepenören som ofta spenderar mycket tid på att utveckla en viss lösning. 
 
 
-En entrepenör testar värdet på sin tjänst 
-för en mycket snäv kundgrupp. Man begränsar sin marknad till en viss kundtyp och är relativt fri att välja var man testar värdet av ens tjänster. I en kommun, däremot, är marknaden definierad av alla tidigare, nuvarande och framtida skattebetalare i ett visst geografiskt område. Att man dessutom väljer ny strategisk inriktning med fyra års mellanrum skapar ytterliggare utmaningar. 
 
+Istället för att söka den  Genom att förstå problemet blir lösningen uppenbar. 
 
-
-
-Utveckling är mer komplicerat idag. Inte bara en fräck teknologi (svart färg räcker inte längre som enda val). 
-
-Many constituents - vague value
-
-Importance of leadership
-
-
-### Lösning
 
 - Experimentera (hur många försök att bygga olika saker)
   - Gå utanför väggarna

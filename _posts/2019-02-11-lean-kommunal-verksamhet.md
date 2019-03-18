@@ -30,12 +30,11 @@ Nej, självfallet inte! Istället ska vi utnyttja den moderna entrepenörens sna
 
 ### Älska problemet
 
-*Svaret på den yttersta frågan om livet, universum och allting är 42, nu gäller det bara att förstå frågan.* Douglas Adams paradox är en kul metafor för risken med att fastna vid en viss idé. Lösningar och ny teknologi är mycket spännande men om de inte har direkt koppling till problemet saknas värdet. 
+*Svaret på den yttersta frågan om livet, universum och allting är 42, nu gäller det bara att förstå frågan.* 
 
+Douglas Adams paradox är en bra metafor för risken med att fastna vid en viss idé. Lösningar och ny teknologi är mycket spännande men deras värde går endast att mäta genom hur väl de möter behovet. Att införa gemensamma cykelpooler kan, till exempel, vara ett sätt att tillåta lokala transporter. Men samtidigt kan det finnas bättre sätt att lösa behovet av tillgänglighet. 
 
-Detta är en risk för entrepenören som ofta spenderar mycket tid på att utveckla en viss lösning. 
-
-Så hur blir man säker på att 
+Så hur kan man förstå behovet och testa en eventuell lösning? [Genom att lämna byggnaden!](https://steveblank.com/2010/03/11/teaching-entrepreneurship-%E2%80%93-by-getting-out-of-the-building/)   
 
 **Gå utanför väggarna**
 Exempel med göteborgsförslaget

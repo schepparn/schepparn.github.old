@@ -1,21 +1,23 @@
 ---
-published: false
 layout: post
-title: The Road to Hell
+title:  "The Road to Hell"
+date:   2019-02-15 15:20:01 +0200
+categories: innovation method
+published: false
 ---
 # The Road to Hell
 
 **Funding practices to avoid good intentions and achieve measurable results.**
 
-In 2016 the world spent [1.8 trillion dollars](https://fas.org/sgp/crs/misc/R44283.pdf) on research and development. Little is known about how sound this investment is, just that there are [few alternatives](https://hbr.org/2018/04/theres-no-good-alternative-to-investing-in-rd). 
+In 2016 the world spent [1.8 trillion dollars](https://fas.org/sgp/crs/misc/R44283.pdf) on research and development. Little is known about how sound this investment is, just that there are [few alternatives](https://hbr.org/2018/04/theres-no-good-alternative-to-investing-in-rd).
 
-Investment decisions are always difficult to make. What topic is worthwhile? What focus will lead to the biggest impact? How should the research be structured to deliver value? Maybe random is the best bet. 
+Investment decisions are always difficult to make. What topic is worthwhile? What focus will lead to the biggest impact? How should the research be structured to deliver value? Maybe random is the best bet.
 
 Monkeys, famously, have an [impressive track record](https://www.ft.com/content/abd15744-9793-11e2-b7ef-00144feabdc0) in surpassing intelligent humans with these intractable decisions. However, instead of capitulating to throwing darts, let us learn from the humans who consistently beat the average. What are the patterns they follow to choose strategic directions and get high returns?
 
-### What Would Warren Buffet Do? 
+### What Would Warren Buffet Do?
 
-This one is easy, let someone else make the decisions for you. 
+This one is easy, let someone else make the decisions for you.
 
 Of course this is a grave oversimplification of Warren's generous donation. However, the statement serves to illustrate a fundamental point in reasearch and development investments. The emphasis is on *someone*, and the point is to take extreme care in selecting who to trust with your investment. Do they have the passion, drive and track record of measurable success that you can truly understand? *"Never invest in a business you cannot understand"* is as true for business decisions as for which research and development project to choose.
 
@@ -23,7 +25,7 @@ Okay, this is fine for dividing large sums of money. However, it hardly brings u
 
 ## What to fund
 
-### Importance of head count (need many and heavy with education) 
+### Importance of head count (need many and heavy with education)
 [gatesnotes - Annual letter 2019 ](https://www.gatesnotes.com/2019-Annual-Letter?WT.mc_id=02_13_2019_15_AL2019_GF-TW_&WT.tsrc=GFTW&sf98738595=1)
 When economists describe the conditions under which countries prosper, one of the factors they stress is “human capital,” which is another way of saying that the future depends on young people’s access to high-quality health and education services. Health and education are the twin engines of economic growth
 
@@ -127,13 +129,13 @@ The Incubator funding will be structured in two rounds. Round 1 funding will sup
 total page limit of 5 pages.
 
 - Section 1: Targeted Use Case(s)
-- Section 2: Goals and Rationale 
+- Section 2: Goals and Rationale
 - Section 3: Approach to Design and Deployment of a Fit-for-Purpose Solution
-- Section 4: Organization and Investigator Capabilities & Collaboration 
+- Section 4: Organization and Investigator Capabilities & Collaboration
 - Section 5: Budget
 
 
-### Annual letter 
+### Annual letter
 - [gatesnotes - Annual Letter 2019](https://www.gatesnotes.com/2019-Annual-Letter?WT.mc_id=02_13_2019_15_AL2019_GF-TW_&WT.tsrc=GFTW&sf98738595=1)
 
 ## References

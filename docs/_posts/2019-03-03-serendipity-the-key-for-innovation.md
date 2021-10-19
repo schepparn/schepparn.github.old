@@ -1,7 +1,11 @@
 ---
+layout: post
+title:  "Cities are a key for a more sustainable future"
+date:   2019-03-03 12:00:00 +0200
+categories: innovation sustainable
 published: false
 ---
-# Cities is a key for a more sustainable future
+# Cities are a key for a more sustainable future
 
 Steven Johnson - Where good ideas come from (2011-10-04)
 https://www.amazon.com/Where-Good-Ideas-Come-Innovation/dp/1594485380
